@@ -11,7 +11,7 @@ public class Main {
         Car zoomZoom = new Car();
 
         zoomZoom.transfer(luggage, place);
-
+//для проверки github
 
     }
 }
